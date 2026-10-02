@@ -40,11 +40,11 @@
 
 - 💻 I have been learning coding for **2+ years**.
 - 🛠️ Interested in low-level systems, shell scripting, and Linux environments.
-- SIIT computer/digital engineering student (freshman)
-- 📬 **Contact Email:** [kongpb1lix@gmail.com](mailto:kongpb1lix@gmail.com)
+- 🧑‍💻SIIT computer/digital engineering student (freshman)
+- 📧 **Contact Email:** [kongpb1lix@gmail.com](mailto:kongpb1lix@gmail.com)
 ---
 
-### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2cc79dfc-cd9e-49b5-b270-49f4d2f51e73" /> Focusing
+### ⚔️Focusing
 - Pentest | SOC Analyst | Reverse engineering
 
 ---
