@@ -45,7 +45,7 @@
 ---
 
 ### ⚔️Focusing
-- Pentest | SOC Analyst | Reverse engineering
+- Pentester | Reverse engineering
 
 ---
 
